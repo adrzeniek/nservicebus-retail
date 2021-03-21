@@ -1,0 +1,643 @@
+﻿2021-03-21 12:28:13.453 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 12:28:13.574 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 12:28:20.494 INFO  Received PlaceOrder, OrderId = c0e4ba78-1cda-423c-b890-827119cace03
+2021-03-21 12:28:21.406 INFO  Received PlaceOrder, OrderId = d18f62c2-cb89-48de-815c-fad08e10889b
+2021-03-21 12:28:22.010 INFO  Received PlaceOrder, OrderId = 8bb74a6d-993d-4865-8af7-2fe2a44b4495
+2021-03-21 12:28:22.186 INFO  Received PlaceOrder, OrderId = 1efecf8a-ea25-4166-9808-53262508e394
+2021-03-21 12:28:22.346 INFO  Received PlaceOrder, OrderId = d7e9a7d4-7f2f-408e-b1f2-713899721f9b
+2021-03-21 12:28:22.508 INFO  Received PlaceOrder, OrderId = 202ad390-97de-44b3-84fd-8ff1623acd05
+2021-03-21 12:28:22.662 INFO  Received PlaceOrder, OrderId = b398fc8c-0077-410e-bbf6-7f28938c70cc
+2021-03-21 12:28:22.807 INFO  Received PlaceOrder, OrderId = 58d8344e-8ad9-4533-9cae-f828313da157
+2021-03-21 12:28:22.981 INFO  Received PlaceOrder, OrderId = b7ec147a-33b5-46f7-a6f7-779b85354e97
+2021-03-21 12:28:23.139 INFO  Received PlaceOrder, OrderId = 082e8bd2-b6f5-4b55-a067-bf23f5fd7299
+2021-03-21 12:28:23.299 INFO  Received PlaceOrder, OrderId = 75db7868-f58b-40b1-8170-1c69f212a3d7
+2021-03-21 12:28:23.476 INFO  Received PlaceOrder, OrderId = 1b1edf1c-dbbb-4979-990e-ca836c9fd37c
+2021-03-21 12:28:23.618 INFO  Received PlaceOrder, OrderId = 14c13cfe-93f2-4a14-8128-d92351ecadff
+2021-03-21 12:28:23.800 INFO  Received PlaceOrder, OrderId = f259b90f-f3ad-472e-ac3a-2d3b58caa46e
+2021-03-21 12:28:23.953 INFO  Received PlaceOrder, OrderId = 2d354b52-1770-4efc-bd20-4b513aa0f9c5
+2021-03-21 12:28:24.112 INFO  Received PlaceOrder, OrderId = 568b3578-e6ac-4ebf-b3b6-f8df37b64f2e
+2021-03-21 12:28:24.287 INFO  Received PlaceOrder, OrderId = afcab36b-db10-4fc8-9ec5-3b29f2a6bd2c
+2021-03-21 12:28:24.445 INFO  Received PlaceOrder, OrderId = bc4429df-9199-493e-93e5-1ad501b93a33
+2021-03-21 12:29:55.370 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 12:29:55.490 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 12:29:55.796 INFO  Received PlaceOrder, OrderId = d5661697-8bbe-4a31-bd58-7a9a5333f442
+2021-03-21 12:29:55.806 INFO  Received PlaceOrder, OrderId = e9901e5f-4d3a-4e20-acc5-a57d92f0e618
+2021-03-21 12:29:55.810 INFO  Received PlaceOrder, OrderId = f160551f-e998-4eec-8d65-e193957e3787
+2021-03-21 12:29:55.815 INFO  Received PlaceOrder, OrderId = e345133b-ed5d-4701-a41d-dcf75cb868e2
+2021-03-21 12:29:55.819 INFO  Received PlaceOrder, OrderId = c6ab518c-bd2f-44d0-8cb3-7b0b3c912f2d
+2021-03-21 12:29:55.823 INFO  Received PlaceOrder, OrderId = caa73546-c422-4ae9-9961-1ed69741212c
+2021-03-21 12:29:55.827 INFO  Received PlaceOrder, OrderId = 369f3273-8591-44f3-a927-86f63c7be6e4
+2021-03-21 12:29:55.831 INFO  Received PlaceOrder, OrderId = 37bcc93e-f465-4d35-bd95-5957906f1c2a
+2021-03-21 12:29:55.835 INFO  Received PlaceOrder, OrderId = e78f639d-a453-4d99-83f6-32e28e0138f0
+2021-03-21 12:29:55.839 INFO  Received PlaceOrder, OrderId = 7dec56a1-61db-4bde-9e73-4814d6c3668a
+2021-03-21 12:29:55.843 INFO  Received PlaceOrder, OrderId = a4441bc4-e275-494a-b502-f819f56ed10c
+2021-03-21 12:29:55.847 INFO  Received PlaceOrder, OrderId = c8cd345a-fee9-4144-9a30-3b4b9ef1da1d
+2021-03-21 12:29:55.851 INFO  Received PlaceOrder, OrderId = ab80954d-24a2-47ed-b984-a9d9869094a9
+2021-03-21 12:29:55.854 INFO  Received PlaceOrder, OrderId = e750066b-9727-4557-bbe5-e87ab119cfbd
+2021-03-21 12:29:55.858 INFO  Received PlaceOrder, OrderId = 9ace3b8a-9c1d-467a-88c3-528da3d0e203
+2021-03-21 12:29:55.862 INFO  Received PlaceOrder, OrderId = 1eeb4432-18d1-4419-b3ac-121fca2fd8ab
+2021-03-21 12:29:55.866 INFO  Received PlaceOrder, OrderId = a13fc5d6-4b50-45bd-bab0-80f2334b028c
+2021-03-21 12:29:55.870 INFO  Received PlaceOrder, OrderId = dd1adc29-7aca-478c-b94d-ae838aa03092
+2021-03-21 12:29:55.874 INFO  Received PlaceOrder, OrderId = 1c4a96db-f4a8-4ec1-bec5-937a06ff3b5d
+2021-03-21 12:29:55.878 INFO  Received PlaceOrder, OrderId = 08124a7f-342a-49dc-aefb-a4dc44b1375c
+2021-03-21 12:29:55.891 INFO  Received PlaceOrder, OrderId = 4eb26fa9-dcd5-4bea-8ff9-37b2ac11af7e
+2021-03-21 12:29:55.899 INFO  Received PlaceOrder, OrderId = fb6a175b-54cb-4e7d-aeb1-57f70042db66
+2021-03-21 12:29:55.904 INFO  Received PlaceOrder, OrderId = 92d2bccb-75fa-488a-8fee-f74989079406
+2021-03-21 12:29:55.908 INFO  Received PlaceOrder, OrderId = cc55d115-1647-4bae-893a-798da0ebe539
+2021-03-21 12:41:04.288 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 12:41:04.375 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 12:41:11.287 INFO  Received PlaceOrder, OrderId = ff9b5830-b573-4bad-8f86-1af7831d7684
+2021-03-21 12:41:17.377 INFO  Received PlaceOrder, OrderId = dbdeb231-67bc-41b4-b611-75c4f5aa375a
+2021-03-21 12:41:18.814 INFO  Received PlaceOrder, OrderId = e2432ecc-f495-4a4d-9d42-d14ed49b5eaf
+2021-03-21 12:41:19.381 INFO  Received PlaceOrder, OrderId = d8cd2d1c-b109-4ccc-b34d-d059075f86db
+2021-03-21 12:41:19.681 INFO  Received PlaceOrder, OrderId = b9fc0ec9-afe8-475b-a367-cedb12e998de
+2021-03-21 12:41:19.857 INFO  Received PlaceOrder, OrderId = a662b146-6137-498d-9817-38835291bd1a
+2021-03-21 12:41:19.982 INFO  Received PlaceOrder, OrderId = b2b02376-2c96-4ba1-aa3c-dd43b79548bd
+2021-03-21 12:41:20.125 INFO  Received PlaceOrder, OrderId = 53ccac46-4519-45da-9390-bb6f394916e9
+2021-03-21 12:41:20.270 INFO  Received PlaceOrder, OrderId = 06ea3f75-70a7-4284-8a27-93a85ad8627a
+2021-03-21 12:41:20.428 INFO  Received PlaceOrder, OrderId = 9a241531-1760-4828-90a1-960f1e3d724d
+2021-03-21 12:41:20.586 INFO  Received PlaceOrder, OrderId = c1b8e813-bc3c-4385-b639-11f3f9c084e0
+2021-03-21 12:41:20.762 INFO  Received PlaceOrder, OrderId = 664da21e-024f-4ea2-bdd3-dac3fca82d31
+2021-03-21 12:41:20.935 INFO  Received PlaceOrder, OrderId = 84ebf29c-52a8-45bd-93c9-19fa59e433f4
+2021-03-21 12:41:21.092 INFO  Received PlaceOrder, OrderId = 212fa683-6c59-43c0-ac09-643490dfad74
+2021-03-21 12:41:21.267 INFO  Received PlaceOrder, OrderId = 23ffe924-0f75-4b50-80c1-3dbb659bbb15
+2021-03-21 12:41:21.426 INFO  Received PlaceOrder, OrderId = 4e31a912-b271-41ea-b27f-cfd3c493328d
+2021-03-21 12:41:21.601 INFO  Received PlaceOrder, OrderId = 1ef44a75-af24-446b-8f71-bf5a9cb1733f
+2021-03-21 12:41:21.791 INFO  Received PlaceOrder, OrderId = 7236a1be-5a81-4ffa-b6b3-56d350127454
+2021-03-21 12:41:21.965 INFO  Received PlaceOrder, OrderId = 7093959c-18da-4fca-b450-9fa09575220b
+2021-03-21 12:41:22.139 INFO  Received PlaceOrder, OrderId = 31cad497-772d-40ea-a4d6-e3a905da8936
+2021-03-21 12:41:22.326 INFO  Received PlaceOrder, OrderId = 7a9bcb06-0dce-41cb-8c51-f51ea65b6b2f
+2021-03-21 12:41:22.511 INFO  Received PlaceOrder, OrderId = f25caadb-f45d-4859-985c-2a8d1136912b
+2021-03-21 12:41:22.700 INFO  Received PlaceOrder, OrderId = 2dc5acc6-e91b-4839-97e2-9125b0e2ed2a
+2021-03-21 12:41:22.891 INFO  Received PlaceOrder, OrderId = 25c343f4-daa2-4580-b5f9-a9cc6e6cf41c
+2021-03-21 12:41:23.065 INFO  Received PlaceOrder, OrderId = 695461f0-9c08-4435-b1f1-1d513565166a
+2021-03-21 12:41:23.254 INFO  Received PlaceOrder, OrderId = ee395c9f-b70b-429c-9fd7-7b7e5ebcfac7
+2021-03-21 12:41:23.430 INFO  Received PlaceOrder, OrderId = 668d0be3-40de-4452-9039-3482722328f2
+2021-03-21 12:41:23.604 INFO  Received PlaceOrder, OrderId = 4faf8b46-fcd2-4945-a2ce-ff94c24172c8
+2021-03-21 12:41:23.794 INFO  Received PlaceOrder, OrderId = 06df93c3-4dd3-4003-a914-f4958f639736
+2021-03-21 12:41:23.983 INFO  Received PlaceOrder, OrderId = e5992004-dc0a-431d-8314-a9dddab074c9
+2021-03-21 12:41:24.155 INFO  Received PlaceOrder, OrderId = 98908ce7-dbd3-4da9-b607-ca750c247b87
+2021-03-21 12:41:24.346 INFO  Received PlaceOrder, OrderId = abc0ec57-e084-449b-b0d5-5ea051d5c5bd
+2021-03-21 12:41:24.522 INFO  Received PlaceOrder, OrderId = 5c28d210-b2c1-4ebc-952e-e9eba3d94d20
+2021-03-21 12:41:24.695 INFO  Received PlaceOrder, OrderId = e73a7e2f-ebec-4350-a861-18fed6d91a46
+2021-03-21 12:41:24.898 INFO  Received PlaceOrder, OrderId = d154c157-43cd-40f0-9bda-1f24a6a7ba32
+2021-03-21 12:41:25.069 INFO  Received PlaceOrder, OrderId = 10eadec2-62c7-45b4-bee9-a749afc2186d
+2021-03-21 12:41:25.257 INFO  Received PlaceOrder, OrderId = 7336109d-2705-4de6-8b98-ac0575ab56a2
+2021-03-21 12:41:25.449 INFO  Received PlaceOrder, OrderId = c2185af3-5df3-4559-b6b4-7c38a9500e69
+2021-03-21 12:41:25.637 INFO  Received PlaceOrder, OrderId = 82e476cb-6645-4e95-8739-ef377d988ab5
+2021-03-21 12:41:25.810 INFO  Received PlaceOrder, OrderId = d5e9ac52-0af5-481f-a734-e256a6ca29a3
+2021-03-21 12:41:25.986 INFO  Received PlaceOrder, OrderId = cc4387b8-3f87-4b31-8904-086cf89a123c
+2021-03-21 12:41:26.161 INFO  Received PlaceOrder, OrderId = 03244d88-dcb7-4a4d-b870-c98a5e202cd2
+2021-03-21 12:41:26.349 INFO  Received PlaceOrder, OrderId = 41ddbddc-f7db-460b-958c-1a2b132c13fe
+2021-03-21 12:41:26.525 INFO  Received PlaceOrder, OrderId = c210c09e-d3a2-4f8d-ba70-bcf6b9776a39
+2021-03-21 12:41:26.714 INFO  Received PlaceOrder, OrderId = 7f418036-125b-4a3b-b31d-172c734e74f8
+2021-03-21 12:41:26.888 INFO  Received PlaceOrder, OrderId = b6ff82b3-2880-467e-bd38-b7b54c18780d
+2021-03-21 12:41:27.063 INFO  Received PlaceOrder, OrderId = dc6b9909-25fd-492a-9dd8-6db17d61fe3b
+2021-03-21 12:41:27.253 INFO  Received PlaceOrder, OrderId = 1846f759-114e-4e4f-b87b-f8ed286d682c
+2021-03-21 12:41:27.410 INFO  Received PlaceOrder, OrderId = c9a3c027-2b77-4f11-b7f4-f17252aa87d2
+2021-03-21 12:41:27.602 INFO  Received PlaceOrder, OrderId = 279100cb-5987-414d-986f-bcfc1d8d40d5
+2021-03-21 12:41:27.778 INFO  Received PlaceOrder, OrderId = e7ccb923-288e-448f-8da7-eaa523b1613c
+2021-03-21 12:41:27.954 INFO  Received PlaceOrder, OrderId = e22e5e50-ea01-48c6-978c-ea0f2fdd3410
+2021-03-21 12:41:28.130 INFO  Received PlaceOrder, OrderId = 169c538d-7887-42a5-b4f0-c215457371af
+2021-03-21 12:41:28.272 INFO  Received PlaceOrder, OrderId = 1a4044d8-8214-426d-90f3-dc72f4fcc097
+2021-03-21 12:41:28.444 INFO  Received PlaceOrder, OrderId = 30da9860-d032-4a09-95b4-015fb91b3032
+2021-03-21 12:41:28.618 INFO  Received PlaceOrder, OrderId = 0d82efe2-da21-4581-a648-9f3cd9230e47
+2021-03-21 12:41:28.758 INFO  Received PlaceOrder, OrderId = 373accec-c1b1-419b-83bb-9e740ed10db0
+2021-03-21 12:41:28.902 INFO  Received PlaceOrder, OrderId = 058c594c-ff50-4050-9f02-4050acaa4a09
+2021-03-21 12:50:20.158 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 12:50:20.236 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 12:50:23.635 INFO  Received PlaceOrder, OrderId = b153cdb5-703d-4bc1-9f31-152d48a23b36
+2021-03-21 12:59:28.099 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 12:59:28.184 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 12:59:37.684 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:37.693 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/MessageMutators/MutateInstanceMessage/MutateIncomingMessageBehavior.cs:line 60
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/UnitOfWork/UnitOfWorkBehavior.cs:line 40
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/UnitOfWork/UnitOfWorkBehavior.cs:line 62
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/MessageMutators/MutateTransportMessage/MutateIncomingTransportMessageBehavior.cs:line 59
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 11:59:37:679920 Z
+	Handler failure time: 2021-03-21 11:59:37:685692 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c10a0c83-fde4-477b-bbbc-331e46856aca
+2021-03-21 12:59:37.726 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:37.728 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 11:59:37:726884 Z
+	Handler failure time: 2021-03-21 11:59:37:727539 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c10a0c83-fde4-477b-bbbc-331e46856aca
+2021-03-21 12:59:37.734 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:37.738 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 11:59:37:734906 Z
+	Handler failure time: 2021-03-21 11:59:37:737950 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c10a0c83-fde4-477b-bbbc-331e46856aca
+2021-03-21 12:59:37.744 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:37.744 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 11:59:37:744160 Z
+	Handler failure time: 2021-03-21 11:59:37:744723 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c10a0c83-fde4-477b-bbbc-331e46856aca
+2021-03-21 12:59:37.750 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:37.751 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 11:59:37:750605 Z
+	Handler failure time: 2021-03-21 11:59:37:751332 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c10a0c83-fde4-477b-bbbc-331e46856aca
+2021-03-21 12:59:37.757 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:37.759 WARN  Delayed Retry will reschedule message '50953172-c9cf-4611-8a5d-acf200c5a6b9' after a delay of 00:00:10 because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 11:59:37:757840 Z
+	Handler failure time: 2021-03-21 11:59:37:758416 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c10a0c83-fde4-477b-bbbc-331e46856aca
+2021-03-21 12:59:48.469 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:48.472 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 11:59:48:469819 Z
+	Handler failure time: 2021-03-21 11:59:48:472436 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c02032b0-856a-4b15-9fa3-360195655820
+2021-03-21 12:59:48.478 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:48.479 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 11:59:48:478718 Z
+	Handler failure time: 2021-03-21 11:59:48:479299 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c02032b0-856a-4b15-9fa3-360195655820
+2021-03-21 12:59:48.485 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:48.486 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 11:59:48:485703 Z
+	Handler failure time: 2021-03-21 11:59:48:486353 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c02032b0-856a-4b15-9fa3-360195655820
+2021-03-21 12:59:48.492 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:48.492 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 11:59:48:492139 Z
+	Handler failure time: 2021-03-21 11:59:48:492722 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c02032b0-856a-4b15-9fa3-360195655820
+2021-03-21 12:59:48.498 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:48.499 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 11:59:48:498287 Z
+	Handler failure time: 2021-03-21 11:59:48:498857 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c02032b0-856a-4b15-9fa3-360195655820
+2021-03-21 12:59:48.507 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:48.507 WARN  Delayed Retry will reschedule message '50953172-c9cf-4611-8a5d-acf200c5a6b9' after a delay of 00:00:20 because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 11:59:48:507006 Z
+	Handler failure time: 2021-03-21 11:59:48:507619 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c02032b0-856a-4b15-9fa3-360195655820
+2021-03-21 13:00:09.585 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 13:00:09.588 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:00:09:585775 Z
+	Handler failure time: 2021-03-21 12:00:09:587733 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c3e1d150-143d-4b40-bf08-be861daae205
+2021-03-21 13:00:09.596 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 13:00:09.597 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:00:09:596085 Z
+	Handler failure time: 2021-03-21 12:00:09:596812 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c3e1d150-143d-4b40-bf08-be861daae205
+2021-03-21 13:00:09.607 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 13:00:09.608 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:00:09:607216 Z
+	Handler failure time: 2021-03-21 12:00:09:608015 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c3e1d150-143d-4b40-bf08-be861daae205
+2021-03-21 13:00:09.615 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 13:00:09.616 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:00:09:615365 Z
+	Handler failure time: 2021-03-21 12:00:09:616173 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c3e1d150-143d-4b40-bf08-be861daae205
+2021-03-21 13:00:09.623 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 13:00:09.624 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:00:09:623199 Z
+	Handler failure time: 2021-03-21 12:00:09:623946 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c3e1d150-143d-4b40-bf08-be861daae205
+2021-03-21 13:00:09.631 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 13:00:09.632 WARN  Delayed Retry will reschedule message '50953172-c9cf-4611-8a5d-acf200c5a6b9' after a delay of 00:00:30 because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:00:09:631926 Z
+	Handler failure time: 2021-03-21 12:00:09:632529 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: c3e1d150-143d-4b40-bf08-be861daae205
+2021-03-21 13:00:40.776 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 13:00:40.777 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:00:40:776077 Z
+	Handler failure time: 2021-03-21 12:00:40:777463 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: ceedf7af-bec5-44ea-81f5-58d58a93922a
+2021-03-21 13:00:40.784 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 13:00:40.785 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:00:40:784881 Z
+	Handler failure time: 2021-03-21 12:00:40:785584 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: ceedf7af-bec5-44ea-81f5-58d58a93922a
+2021-03-21 13:00:40.795 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 13:00:40.797 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:00:40:795873 Z
+	Handler failure time: 2021-03-21 12:00:40:797004 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: ceedf7af-bec5-44ea-81f5-58d58a93922a
+2021-03-21 13:00:40.806 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 13:00:40.807 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:00:40:806437 Z
+	Handler failure time: 2021-03-21 12:00:40:807417 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: ceedf7af-bec5-44ea-81f5-58d58a93922a
+2021-03-21 13:00:40.814 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 13:00:40.814 INFO  Immediate Retry is going to retry message '50953172-c9cf-4611-8a5d-acf200c5a6b9' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:00:40:814105 Z
+	Handler failure time: 2021-03-21 12:00:40:814684 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: ceedf7af-bec5-44ea-81f5-58d58a93922a
+2021-03-21 13:00:40.821 INFO  Received PlaceOrder, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 13:00:40.824 ERROR Moving message '50953172-c9cf-4611-8a5d-acf200c5a6b9' to the error queue 'error' because processing failed due to an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 18
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:00:40:821519 Z
+	Handler failure time: 2021-03-21 12:00:40:823704 Z
+	Message ID: 50953172-c9cf-4611-8a5d-acf200c5a6b9
+	Transport message ID: ceedf7af-bec5-44ea-81f5-58d58a93922a
+2021-03-21 13:02:11.978 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\Sales\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 13:02:12.054 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 13:02:19.528 INFO  Received PlaceOrder, OrderId = 45d920d4-2c39-4096-94c8-03c68522ae9f
+2021-03-21 13:02:19.536 INFO  Immediate Retry is going to retry message 'ad01df45-4f8d-4ae4-ba35-acf200c66463' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 24
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.MutateIncomingMessageBehavior.InvokeIncomingMessageMutators(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/MessageMutators/MutateInstanceMessage/MutateIncomingMessageBehavior.cs:line 60
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/UnitOfWork/UnitOfWorkBehavior.cs:line 40
+   at NServiceBus.UnitOfWorkBehavior.InvokeUnitsOfWork(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/UnitOfWork/UnitOfWorkBehavior.cs:line 62
+   at NServiceBus.MutateIncomingTransportMessageBehavior.InvokeIncomingTransportMessagesMutators(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/MessageMutators/MutateTransportMessage/MutateIncomingTransportMessageBehavior.cs:line 59
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:02:19:528013 Z
+	Handler failure time: 2021-03-21 12:02:19:529369 Z
+	Message ID: ad01df45-4f8d-4ae4-ba35-acf200c66463
+	Transport message ID: a7d95151-715a-4573-ad67-7ca7c1ffa692
+2021-03-21 13:02:19.553 INFO  Received PlaceOrder, OrderId = 45d920d4-2c39-4096-94c8-03c68522ae9f
+2021-03-21 13:02:21.101 INFO  Received PlaceOrder, OrderId = c10c9505-9d58-4cc9-8d22-90a728d99881
+2021-03-21 13:02:21.103 INFO  Immediate Retry is going to retry message 'ddff3bbb-65f1-4782-b06a-acf200c66657' because of an exception:
+System.Exception: BOOM!
+   at Sales.PlaceOrderHandler.Handle(PlaceOrder message, IMessageHandlerContext context) in C:\Users\Artur\source\repos\NServiceBusLession1\Sales\PlaceOrderHandler.cs:line 24
+   at NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) in /_/src/NServiceBus.Core/Pipeline/Incoming/MessageHandler.cs:line 43
+   at NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) in /_/src/NServiceBus.Core/Pipeline/Incoming/InvokeHandlerTerminator.cs:line 22
+   at NServiceBus.LoadHandlersConnector.Invoke(IIncomingLogicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/LoadHandlersConnector.cs:line 50
+   at NServiceBus.ScheduledTaskHandlingBehavior.Invoke(IIncomingLogicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Scheduling/ScheduledTaskHandlingBehavior.cs:line 22
+   at NServiceBus.DeserializeMessageConnector.Invoke(IIncomingPhysicalMessageContext context, Func`2 stage) in /_/src/NServiceBus.Core/Pipeline/Incoming/DeserializeMessageConnector.cs:line 33
+   at NServiceBus.ProcessingStatisticsBehavior.Invoke(IIncomingPhysicalMessageContext context, Func`2 next) in /_/src/NServiceBus.Core/Performance/Statistics/ProcessingStatisticsBehavior.cs:line 25
+   at NServiceBus.TransportReceiveToPhysicalMessageConnector.Invoke(ITransportReceiveContext context, Func`2 next) in /_/src/NServiceBus.Core/Pipeline/Incoming/TransportReceiveToPhysicalMessageConnector.cs:line 39
+   at NServiceBus.MainPipelineExecutor.Invoke(MessageContext messageContext) in /_/src/NServiceBus.Core/Pipeline/MainPipelineExecutor.cs:line 35
+   at NServiceBus.LearningTransportMessagePump.ProcessFile(ILearningTransportTransaction transaction, String messageId) in /_/src/NServiceBus.Core/Transports/Learning/LearningTransportMessagePump.cs:line 279
+Exception details:
+	Message type: Messages.Commands.PlaceOrder
+	Handler type: Sales.PlaceOrderHandler
+	Handler start time: 2021-03-21 12:02:21:101749 Z
+	Handler failure time: 2021-03-21 12:02:21:103133 Z
+	Message ID: ddff3bbb-65f1-4782-b06a-acf200c66657
+	Transport message ID: 464ba9e4-185b-4e13-aa42-bd4d2929e1e6
+2021-03-21 13:02:21.111 INFO  Received PlaceOrder, OrderId = c10c9505-9d58-4cc9-8d22-90a728d99881

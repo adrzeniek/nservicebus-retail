@@ -1,0 +1,234 @@
+﻿2021-03-21 12:27:43.566 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\NServiceBusLession1\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 12:27:43.689 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 12:27:43.910 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:16.030 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\NServiceBusLession1\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 12:28:16.148 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 12:28:16.320 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:20.265 INFO  Sending PlaceOrder command, OrderId = c0e4ba78-1cda-423c-b890-827119cace03
+2021-03-21 12:28:20.379 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:21.395 INFO  Sending PlaceOrder command, OrderId = d18f62c2-cb89-48de-815c-fad08e10889b
+2021-03-21 12:28:21.399 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:22.000 INFO  Sending PlaceOrder command, OrderId = 8bb74a6d-993d-4865-8af7-2fe2a44b4495
+2021-03-21 12:28:22.004 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:22.175 INFO  Sending PlaceOrder command, OrderId = 1efecf8a-ea25-4166-9808-53262508e394
+2021-03-21 12:28:22.179 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:22.335 INFO  Sending PlaceOrder command, OrderId = d7e9a7d4-7f2f-408e-b1f2-713899721f9b
+2021-03-21 12:28:22.343 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:22.495 INFO  Sending PlaceOrder command, OrderId = 202ad390-97de-44b3-84fd-8ff1623acd05
+2021-03-21 12:28:22.498 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:22.650 INFO  Sending PlaceOrder command, OrderId = b398fc8c-0077-410e-bbf6-7f28938c70cc
+2021-03-21 12:28:22.653 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:22.800 INFO  Sending PlaceOrder command, OrderId = 58d8344e-8ad9-4533-9cae-f828313da157
+2021-03-21 12:28:22.804 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:22.965 INFO  Sending PlaceOrder command, OrderId = b7ec147a-33b5-46f7-a6f7-779b85354e97
+2021-03-21 12:28:22.969 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:23.120 INFO  Sending PlaceOrder command, OrderId = 082e8bd2-b6f5-4b55-a067-bf23f5fd7299
+2021-03-21 12:28:23.124 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:23.285 INFO  Sending PlaceOrder command, OrderId = 75db7868-f58b-40b1-8170-1c69f212a3d7
+2021-03-21 12:28:23.289 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:23.455 INFO  Sending PlaceOrder command, OrderId = 1b1edf1c-dbbb-4979-990e-ca836c9fd37c
+2021-03-21 12:28:23.459 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:23.610 INFO  Sending PlaceOrder command, OrderId = 14c13cfe-93f2-4a14-8128-d92351ecadff
+2021-03-21 12:28:23.614 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:23.780 INFO  Sending PlaceOrder command, OrderId = f259b90f-f3ad-472e-ac3a-2d3b58caa46e
+2021-03-21 12:28:23.784 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:23.945 INFO  Sending PlaceOrder command, OrderId = 2d354b52-1770-4efc-bd20-4b513aa0f9c5
+2021-03-21 12:28:23.949 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:24.100 INFO  Sending PlaceOrder command, OrderId = 568b3578-e6ac-4ebf-b3b6-f8df37b64f2e
+2021-03-21 12:28:24.104 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:24.265 INFO  Sending PlaceOrder command, OrderId = afcab36b-db10-4fc8-9ec5-3b29f2a6bd2c
+2021-03-21 12:28:24.269 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:28:24.415 INFO  Sending PlaceOrder command, OrderId = bc4429df-9199-493e-93e5-1ad501b93a33
+2021-03-21 12:28:24.419 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:28.240 INFO  Sending PlaceOrder command, OrderId = a13fc5d6-4b50-45bd-bab0-80f2334b028c
+2021-03-21 12:29:28.243 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:28.605 INFO  Sending PlaceOrder command, OrderId = cc55d115-1647-4bae-893a-798da0ebe539
+2021-03-21 12:29:28.612 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:28.850 INFO  Sending PlaceOrder command, OrderId = ab80954d-24a2-47ed-b984-a9d9869094a9
+2021-03-21 12:29:28.852 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:29.025 INFO  Sending PlaceOrder command, OrderId = dd1adc29-7aca-478c-b94d-ae838aa03092
+2021-03-21 12:29:29.027 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:29.200 INFO  Sending PlaceOrder command, OrderId = 9ace3b8a-9c1d-467a-88c3-528da3d0e203
+2021-03-21 12:29:29.202 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:31.160 INFO  Sending PlaceOrder command, OrderId = 369f3273-8591-44f3-a927-86f63c7be6e4
+2021-03-21 12:29:31.163 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:31.330 INFO  Sending PlaceOrder command, OrderId = 1c4a96db-f4a8-4ec1-bec5-937a06ff3b5d
+2021-03-21 12:29:31.333 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:31.485 INFO  Sending PlaceOrder command, OrderId = e750066b-9727-4557-bbe5-e87ab119cfbd
+2021-03-21 12:29:31.487 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:31.655 INFO  Sending PlaceOrder command, OrderId = 1eeb4432-18d1-4419-b3ac-121fca2fd8ab
+2021-03-21 12:29:31.657 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:31.825 INFO  Sending PlaceOrder command, OrderId = 92d2bccb-75fa-488a-8fee-f74989079406
+2021-03-21 12:29:31.827 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:31.995 INFO  Sending PlaceOrder command, OrderId = e9901e5f-4d3a-4e20-acc5-a57d92f0e618
+2021-03-21 12:29:32.002 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:32.165 INFO  Sending PlaceOrder command, OrderId = caa73546-c422-4ae9-9961-1ed69741212c
+2021-03-21 12:29:32.167 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:32.330 INFO  Sending PlaceOrder command, OrderId = e345133b-ed5d-4701-a41d-dcf75cb868e2
+2021-03-21 12:29:32.333 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:32.500 INFO  Sending PlaceOrder command, OrderId = c8cd345a-fee9-4144-9a30-3b4b9ef1da1d
+2021-03-21 12:29:32.503 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:32.665 INFO  Sending PlaceOrder command, OrderId = 4eb26fa9-dcd5-4bea-8ff9-37b2ac11af7e
+2021-03-21 12:29:32.667 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:32.825 INFO  Sending PlaceOrder command, OrderId = 08124a7f-342a-49dc-aefb-a4dc44b1375c
+2021-03-21 12:29:32.827 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:32.995 INFO  Sending PlaceOrder command, OrderId = e78f639d-a453-4d99-83f6-32e28e0138f0
+2021-03-21 12:29:32.997 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:33.175 INFO  Sending PlaceOrder command, OrderId = fb6a175b-54cb-4e7d-aeb1-57f70042db66
+2021-03-21 12:29:33.177 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:33.340 INFO  Sending PlaceOrder command, OrderId = a4441bc4-e275-494a-b502-f819f56ed10c
+2021-03-21 12:29:33.342 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:33.495 INFO  Sending PlaceOrder command, OrderId = 7dec56a1-61db-4bde-9e73-4814d6c3668a
+2021-03-21 12:29:33.497 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:33.660 INFO  Sending PlaceOrder command, OrderId = f160551f-e998-4eec-8d65-e193957e3787
+2021-03-21 12:29:33.666 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:33.840 INFO  Sending PlaceOrder command, OrderId = c6ab518c-bd2f-44d0-8cb3-7b0b3c912f2d
+2021-03-21 12:29:33.842 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:34.015 INFO  Sending PlaceOrder command, OrderId = d5661697-8bbe-4a31-bd58-7a9a5333f442
+2021-03-21 12:29:34.017 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:29:34.165 INFO  Sending PlaceOrder command, OrderId = 37bcc93e-f465-4d35-bd95-5957906f1c2a
+2021-03-21 12:29:34.171 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:04.291 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\NServiceBusLession1\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 12:41:04.379 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 12:41:04.509 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:11.179 INFO  Sending PlaceOrder command, OrderId = ff9b5830-b573-4bad-8f86-1af7831d7684
+2021-03-21 12:41:11.225 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:17.363 INFO  Sending PlaceOrder command, OrderId = dbdeb231-67bc-41b4-b611-75c4f5aa375a
+2021-03-21 12:41:17.366 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:18.808 INFO  Sending PlaceOrder command, OrderId = e2432ecc-f495-4a4d-9d42-d14ed49b5eaf
+2021-03-21 12:41:18.811 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:19.368 INFO  Sending PlaceOrder command, OrderId = d8cd2d1c-b109-4ccc-b34d-d059075f86db
+2021-03-21 12:41:19.371 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:19.668 INFO  Sending PlaceOrder command, OrderId = b9fc0ec9-afe8-475b-a367-cedb12e998de
+2021-03-21 12:41:19.671 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:19.843 INFO  Sending PlaceOrder command, OrderId = a662b146-6137-498d-9817-38835291bd1a
+2021-03-21 12:41:19.845 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:19.978 INFO  Sending PlaceOrder command, OrderId = b2b02376-2c96-4ba1-aa3c-dd43b79548bd
+2021-03-21 12:41:19.980 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:20.118 INFO  Sending PlaceOrder command, OrderId = 53ccac46-4519-45da-9390-bb6f394916e9
+2021-03-21 12:41:20.121 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:20.258 INFO  Sending PlaceOrder command, OrderId = 06ea3f75-70a7-4284-8a27-93a85ad8627a
+2021-03-21 12:41:20.261 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:20.413 INFO  Sending PlaceOrder command, OrderId = 9a241531-1760-4828-90a1-960f1e3d724d
+2021-03-21 12:41:20.416 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:20.568 INFO  Sending PlaceOrder command, OrderId = c1b8e813-bc3c-4385-b639-11f3f9c084e0
+2021-03-21 12:41:20.571 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:20.748 INFO  Sending PlaceOrder command, OrderId = 664da21e-024f-4ea2-bdd3-dac3fca82d31
+2021-03-21 12:41:20.751 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:20.918 INFO  Sending PlaceOrder command, OrderId = 84ebf29c-52a8-45bd-93c9-19fa59e433f4
+2021-03-21 12:41:20.921 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:21.073 INFO  Sending PlaceOrder command, OrderId = 212fa683-6c59-43c0-ac09-643490dfad74
+2021-03-21 12:41:21.075 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:21.253 INFO  Sending PlaceOrder command, OrderId = 23ffe924-0f75-4b50-80c1-3dbb659bbb15
+2021-03-21 12:41:21.256 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:21.418 INFO  Sending PlaceOrder command, OrderId = 4e31a912-b271-41ea-b27f-cfd3c493328d
+2021-03-21 12:41:21.420 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:21.593 INFO  Sending PlaceOrder command, OrderId = 1ef44a75-af24-446b-8f71-bf5a9cb1733f
+2021-03-21 12:41:21.596 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:21.778 INFO  Sending PlaceOrder command, OrderId = 7236a1be-5a81-4ffa-b6b3-56d350127454
+2021-03-21 12:41:21.781 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:21.948 INFO  Sending PlaceOrder command, OrderId = 7093959c-18da-4fca-b450-9fa09575220b
+2021-03-21 12:41:21.952 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:22.123 INFO  Sending PlaceOrder command, OrderId = 31cad497-772d-40ea-a4d6-e3a905da8936
+2021-03-21 12:41:22.125 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:22.318 INFO  Sending PlaceOrder command, OrderId = 7a9bcb06-0dce-41cb-8c51-f51ea65b6b2f
+2021-03-21 12:41:22.320 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:22.503 INFO  Sending PlaceOrder command, OrderId = f25caadb-f45d-4859-985c-2a8d1136912b
+2021-03-21 12:41:22.505 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:22.683 INFO  Sending PlaceOrder command, OrderId = 2dc5acc6-e91b-4839-97e2-9125b0e2ed2a
+2021-03-21 12:41:22.685 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:22.878 INFO  Sending PlaceOrder command, OrderId = 25c343f4-daa2-4580-b5f9-a9cc6e6cf41c
+2021-03-21 12:41:22.880 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:23.053 INFO  Sending PlaceOrder command, OrderId = 695461f0-9c08-4435-b1f1-1d513565166a
+2021-03-21 12:41:23.055 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:23.248 INFO  Sending PlaceOrder command, OrderId = ee395c9f-b70b-429c-9fd7-7b7e5ebcfac7
+2021-03-21 12:41:23.251 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:23.418 INFO  Sending PlaceOrder command, OrderId = 668d0be3-40de-4452-9039-3482722328f2
+2021-03-21 12:41:23.420 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:23.588 INFO  Sending PlaceOrder command, OrderId = 4faf8b46-fcd2-4945-a2ce-ff94c24172c8
+2021-03-21 12:41:23.590 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:23.783 INFO  Sending PlaceOrder command, OrderId = 06df93c3-4dd3-4003-a914-f4958f639736
+2021-03-21 12:41:23.785 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:23.968 INFO  Sending PlaceOrder command, OrderId = e5992004-dc0a-431d-8314-a9dddab074c9
+2021-03-21 12:41:23.970 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:24.148 INFO  Sending PlaceOrder command, OrderId = 98908ce7-dbd3-4da9-b607-ca750c247b87
+2021-03-21 12:41:24.150 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:24.338 INFO  Sending PlaceOrder command, OrderId = abc0ec57-e084-449b-b0d5-5ea051d5c5bd
+2021-03-21 12:41:24.340 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:24.513 INFO  Sending PlaceOrder command, OrderId = 5c28d210-b2c1-4ebc-952e-e9eba3d94d20
+2021-03-21 12:41:24.515 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:24.678 INFO  Sending PlaceOrder command, OrderId = e73a7e2f-ebec-4350-a861-18fed6d91a46
+2021-03-21 12:41:24.681 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:24.878 INFO  Sending PlaceOrder command, OrderId = d154c157-43cd-40f0-9bda-1f24a6a7ba32
+2021-03-21 12:41:24.896 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:25.063 INFO  Sending PlaceOrder command, OrderId = 10eadec2-62c7-45b4-bee9-a749afc2186d
+2021-03-21 12:41:25.065 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:25.248 INFO  Sending PlaceOrder command, OrderId = 7336109d-2705-4de6-8b98-ac0575ab56a2
+2021-03-21 12:41:25.250 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:25.438 INFO  Sending PlaceOrder command, OrderId = c2185af3-5df3-4559-b6b4-7c38a9500e69
+2021-03-21 12:41:25.440 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:25.628 INFO  Sending PlaceOrder command, OrderId = 82e476cb-6645-4e95-8739-ef377d988ab5
+2021-03-21 12:41:25.630 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:25.807 INFO  Sending PlaceOrder command, OrderId = d5e9ac52-0af5-481f-a734-e256a6ca29a3
+2021-03-21 12:41:25.809 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:25.982 INFO  Sending PlaceOrder command, OrderId = cc4387b8-3f87-4b31-8904-086cf89a123c
+2021-03-21 12:41:25.984 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:26.157 INFO  Sending PlaceOrder command, OrderId = 03244d88-dcb7-4a4d-b870-c98a5e202cd2
+2021-03-21 12:41:26.159 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:26.332 INFO  Sending PlaceOrder command, OrderId = 41ddbddc-f7db-460b-958c-1a2b132c13fe
+2021-03-21 12:41:26.336 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:26.512 INFO  Sending PlaceOrder command, OrderId = c210c09e-d3a2-4f8d-ba70-bcf6b9776a39
+2021-03-21 12:41:26.514 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:26.702 INFO  Sending PlaceOrder command, OrderId = 7f418036-125b-4a3b-b31d-172c734e74f8
+2021-03-21 12:41:26.704 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:26.882 INFO  Sending PlaceOrder command, OrderId = b6ff82b3-2880-467e-bd38-b7b54c18780d
+2021-03-21 12:41:26.884 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:27.052 INFO  Sending PlaceOrder command, OrderId = dc6b9909-25fd-492a-9dd8-6db17d61fe3b
+2021-03-21 12:41:27.054 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:27.237 INFO  Sending PlaceOrder command, OrderId = 1846f759-114e-4e4f-b87b-f8ed286d682c
+2021-03-21 12:41:27.239 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:27.407 INFO  Sending PlaceOrder command, OrderId = c9a3c027-2b77-4f11-b7f4-f17252aa87d2
+2021-03-21 12:41:27.409 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:27.587 INFO  Sending PlaceOrder command, OrderId = 279100cb-5987-414d-986f-bcfc1d8d40d5
+2021-03-21 12:41:27.589 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:27.767 INFO  Sending PlaceOrder command, OrderId = e7ccb923-288e-448f-8da7-eaa523b1613c
+2021-03-21 12:41:27.769 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:27.937 INFO  Sending PlaceOrder command, OrderId = e22e5e50-ea01-48c6-978c-ea0f2fdd3410
+2021-03-21 12:41:27.940 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:28.117 INFO  Sending PlaceOrder command, OrderId = 169c538d-7887-42a5-b4f0-c215457371af
+2021-03-21 12:41:28.119 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:28.267 INFO  Sending PlaceOrder command, OrderId = 1a4044d8-8214-426d-90f3-dc72f4fcc097
+2021-03-21 12:41:28.269 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:28.427 INFO  Sending PlaceOrder command, OrderId = 30da9860-d032-4a09-95b4-015fb91b3032
+2021-03-21 12:41:28.430 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:28.607 INFO  Sending PlaceOrder command, OrderId = 0d82efe2-da21-4581-a648-9f3cd9230e47
+2021-03-21 12:41:28.609 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:28.752 INFO  Sending PlaceOrder command, OrderId = 373accec-c1b1-419b-83bb-9e740ed10db0
+2021-03-21 12:41:28.754 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:28.887 INFO  Sending PlaceOrder command, OrderId = 058c594c-ff50-4050-9f02-4050acaa4a09
+2021-03-21 12:41:28.889 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:41:32.553 INFO  Initiating shutdown.
+2021-03-21 12:41:32.566 INFO  Shutdown complete.
+2021-03-21 12:50:20.162 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\NServiceBusLession1\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 12:50:20.239 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 12:50:20.366 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:50:23.525 INFO  Sending PlaceOrder command, OrderId = b153cdb5-703d-4bc1-9f31-152d48a23b36
+2021-03-21 12:50:23.571 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:58:34.855 INFO  Unknown input. Please try again.
+2021-03-21 12:58:34.856 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:58:35.696 INFO  Unknown input. Please try again.
+2021-03-21 12:58:35.696 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:58:36.607 INFO  Initiating shutdown.
+2021-03-21 12:58:36.613 INFO  Shutdown complete.
+2021-03-21 12:59:28.102 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\NServiceBusLession1\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 12:59:28.184 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 12:59:28.307 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 12:59:37.572 INFO  Sending PlaceOrder command, OrderId = 8dc2f4b2-eca8-4d78-a8de-6ab88e06b6e2
+2021-03-21 12:59:37.619 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 13:02:11.976 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\NServiceBusLession1\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 13:02:12.056 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 13:02:12.174 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 13:02:19.418 INFO  Sending PlaceOrder command, OrderId = 45d920d4-2c39-4096-94c8-03c68522ae9f
+2021-03-21 13:02:19.464 INFO  Press 'P' to place an order, or 'Q' to quit.
+2021-03-21 13:02:21.087 INFO  Sending PlaceOrder command, OrderId = c10c9505-9d58-4cc9-8d22-90a728d99881
+2021-03-21 13:02:21.090 INFO  Press 'P' to place an order, or 'Q' to quit.

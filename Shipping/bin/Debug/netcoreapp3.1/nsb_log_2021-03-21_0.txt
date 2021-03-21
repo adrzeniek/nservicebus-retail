@@ -1,0 +1,12 @@
+﻿2021-03-21 12:50:20.721 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\Shipping\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 12:50:20.846 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 12:50:23.794 INFO  Received OrderPlaced, OrderId = b153cdb5-703d-4bc1-9f31-152d48a23b36 - Should we ship now?
+2021-03-21 12:50:23.806 INFO  Received OrderBilled, OrderId = b153cdb5-703d-4bc1-9f31-152d48a23b36 - Should we ship now?
+2021-03-21 12:59:28.100 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\Shipping\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 12:59:28.184 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 13:02:11.955 INFO  Logging to 'C:\Users\Artur\source\repos\NServiceBusLession1\Shipping\bin\Debug\netcoreapp3.1\' with level Info
+2021-03-21 13:02:12.033 INFO  No valid license could be found. Falling back to trial license with start date '2021-03-20'.
+2021-03-21 13:02:19.653 INFO  Received OrderPlaced, OrderId = 45d920d4-2c39-4096-94c8-03c68522ae9f - Should we ship now?
+2021-03-21 13:02:19.663 INFO  Received OrderBilled, OrderId = 45d920d4-2c39-4096-94c8-03c68522ae9f - Should we ship now?
+2021-03-21 13:02:21.132 INFO  Received OrderPlaced, OrderId = c10c9505-9d58-4cc9-8d22-90a728d99881 - Should we ship now?
+2021-03-21 13:02:21.227 INFO  Received OrderBilled, OrderId = c10c9505-9d58-4cc9-8d22-90a728d99881 - Should we ship now?

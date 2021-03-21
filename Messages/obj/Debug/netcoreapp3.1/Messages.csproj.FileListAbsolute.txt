@@ -1,0 +1,9 @@
+C:\Users\Artur\source\repos\NServiceBusLession1\Messages\bin\Debug\netcoreapp3.1\Messages.deps.json
+C:\Users\Artur\source\repos\NServiceBusLession1\Messages\bin\Debug\netcoreapp3.1\Messages.dll
+C:\Users\Artur\source\repos\NServiceBusLession1\Messages\bin\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\Artur\source\repos\NServiceBusLession1\Messages\obj\Debug\netcoreapp3.1\Messages.csprojAssemblyReference.cache
+C:\Users\Artur\source\repos\NServiceBusLession1\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfoInputs.cache
+C:\Users\Artur\source\repos\NServiceBusLession1\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfo.cs
+C:\Users\Artur\source\repos\NServiceBusLession1\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\NServiceBusLession1\Messages\obj\Debug\netcoreapp3.1\Messages.dll
+C:\Users\Artur\source\repos\NServiceBusLession1\Messages\obj\Debug\netcoreapp3.1\Messages.pdb
